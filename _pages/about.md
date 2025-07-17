@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: wangze@g.ecc.u-tokyo.ac.jp
 
 profile:
   align: right
