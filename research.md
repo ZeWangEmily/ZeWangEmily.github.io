@@ -14,7 +14,7 @@ layout: page
   - Presented at JEA Hirosaki 2025, EAEA 2525
 
 - **Mental Disorder, Altruism, and Empathy: Experimental Evidence from Middle School Students in Post-Earthquake Sichuan, China**  
-  (with [Albert Park](http://www.albertfpark.com/), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), [Menghan Shen](https://sog.sysu.edu.cn/en/teacher/ShenMenghan), [Sangui Wang](https://www.swissre.com/profile/Sangui_Wang/ep.5041ae), [Heng Wang](https://hengcv.github.io/))  
+  (with [Albert Park](http://www.albertfpark.com/), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), [Menghan Shen](https://sog.sysu.edu.cn/en/teacher/ShenMenghan), [Sangui Wang](https://www.swissre.com/profile/Sangui_Wang/ep.5041ae), [Heng Wang](http://sarden.ruc.edu.cn/People/Faculty/AssistantProfessor/95da0085b62c4863957a6e1e11052d1b.htm))  
 
 - **Shanghai in Flux: Evaluating the Building Expansion Effects of River Crossings Using Satellite Imagery**  
   (with [Myoung-jae Lee](https://sites.google.com/site/mjleeku/home), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), [Akiko Terada-Hagiwara](https://blogs.adb.org/author/akiko-terada-hagiwara))
