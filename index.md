@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Ze Wang
-feature_image: "/assets/header_personal.png"
+feature_image: "/assets/header_personal_sub.png"
 excerpt: ""
 ---
 
