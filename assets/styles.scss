@@ -3,32 +3,5 @@ title: false
 styles: true
 ---
 
-
-/* 正文：舒适字号和行距 */
-body {
-  font-size: 16px;
-  line-height: 1.85;
-}
-
-/* 标题层级 */
-h1 {
-  font-size: 2rem;
-  margin-bottom: 0.6em;
-}
-h2 {
-  font-size: 1.4rem;
-  margin-bottom: 0.5em;
-}
-h3 {
-  font-size: 1.3rem;
-  margin-bottom: 0.4em;
-}
-
-/* 列表行距 */
-ul, ol {
-  line-height: 1.67;
-  margin-bottom: 1rem;
-}
-
 @import "alembic";
 
