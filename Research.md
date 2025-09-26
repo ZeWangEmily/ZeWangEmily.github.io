@@ -6,7 +6,7 @@ layout: page
 ## Working Paper
 
 - ** [Negative Spiral among Disaster-Exposed Peers: Academic Deficit in the Sichuan Earthquake](https://www.dropbox.com/scl/fi/6dxcerup6l6dbrlqbjqy1/Ze_Wang_Earthquake_2025.pdf?rlkey=zk1fy0zrt1x7s1lruedbbt89n&dl=0) **  
-  (Under Review)
+  [Under Review]
   - Presented at ESWC 2025
 
 - ** Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines **  
