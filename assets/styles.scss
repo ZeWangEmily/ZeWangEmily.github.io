@@ -3,7 +3,6 @@ title: false
 styles: true
 ---
 
-@import "alembic";
 
 /* 正文：舒适字号和行距 */
 body {
@@ -31,10 +30,5 @@ ul, ol {
   margin-bottom: 1rem;
 }
 
-/* 主体宽度：覆盖 Alembic 默认 */
-.content {
-  max-width: 1300px;   /* 你可以试 1000px / 1100px / 1200px 看效果 */
-  margin: 0 auto;
-  padding: 0 2rem;
-}
+@import "alembic";
 
