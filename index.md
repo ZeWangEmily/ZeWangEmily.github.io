@@ -11,9 +11,9 @@ excerpt: ""
   <div style="flex:2;">
     Welcome to my website! I am a PhD student in economics at the University of Tokyo.  
     My research focuses on education, disasters, and behavior in developing countries.  
-    I also go by <strong>Emily<strong>.
+    I also go by <strong>Emily<strong>. 
       
-    <p>Email: emilywangaaa@gmail.com</p>
+    <p>Email: emilywangaaa@gmail.com     <a href="https://www.dropbox.com/scl/fi/pio1dmsglgew2tzselm83/CV_Ze_Wang_Emily_2025.pdf?rlkey=88p1kfhw479lx3l7lapfigd6q&dl=0" target="_blank">CV</a>. </p>
   </div>
 
   <div style="flex:1; text-align:center;">
