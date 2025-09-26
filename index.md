@@ -8,7 +8,7 @@ excerpt: ""
 
 <div style="position: relative;">
 
-  <div style="text-align: right; font-size: 0.9em; color: #666; margin-top: -2.5em; margin-right: 1em; font-style: italic;">
+  <div style="text-align: left; font-size: 0.6em; color: #666; margin-top: -2.5em; margin-left: 1em; font-style: italic;">
     Photo taken in Baseco, Manila
   </div>
 
