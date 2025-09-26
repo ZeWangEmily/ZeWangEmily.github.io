@@ -6,13 +6,6 @@ feature_image: "/assets/header_personal.png"
 excerpt: ""
 ---
 
-<div style="position: relative;">
-
-  <div style="text-align: left; font-size: 0.6em; color: #666; margin-top: -2.5em; margin-left: 1em; font-style: italic;">
-    Photo taken in Baseco, Manila
-  </div>
-
-</div>
 
 <div style="display:flex; align-items:center; gap:2rem; flex-wrap:wrap;">
 
