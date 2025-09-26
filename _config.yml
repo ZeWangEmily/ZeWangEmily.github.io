@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Ze Wang" # Site name or title, also used in jekyll-seo-tag
 #logo: # Site logo, also used in jekyll-seo-tag
-description: "Welcome to my website. I am a PhD student in economics at the University of Tokyo. My research focuses on education, disasters, poverty, and social preferences in developing countries."
+#description: ""
 url: "https://zewangemily.github.io"
 baseurl: ""
 repo: "https://github.com/ZeWangEmily/ZeWangEmily.github.io"
