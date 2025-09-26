@@ -5,27 +5,37 @@ styles: true
 
 @import "alembic";
 
+/* 正文：稍微比14px大一点，行距更舒服 */
 body {
-  font-size: 14px;   /* default ~16px → make it smaller */
-  line-height: 1.5;  /* keep readability */
+  font-size: 15px;     /* 比14px略大，更易读 */
+  line-height: 1.65;   /* 增加呼吸感 */
 }
 
+/* 标题：层级感清晰但不夸张 */
 h1 {
-  font-size: 1.8rem;   /* default ~2.5rem */
+  font-size: 1.6rem;   /* 原来 1.8rem → 稍微小一点 */
+  margin-bottom: 0.6em;
 }
 
 h2 {
-  font-size: 1.2rem;  /* default ~2rem */
+  font-size: 1.3rem;   /* 原来 1.2rem → 稍微调高一点 */
+  margin-bottom: 0.5em;
 }
 
 h3 {
-  font-size: 1.1rem;
+  font-size: 1.1rem;   /* 保持 */
+  margin-bottom: 0.4em;
 }
 
-/* Make main content wider */
+/* 列表：让行距更舒展 */
+ul, ol {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* 主体内容宽度：更宽一些但保持居中 */
 .wrapper {
-  max-width: 1400px;   /* default is ~800px */
-  margin: 0 auto;      /* keep centered */
-  padding: 0 2rem;     /* add a little space so text doesn’t touch edges */
+  max-width: 1000px;   /* 原来 1400px 太宽，不好阅读 */
+  margin: 0 auto;
+  padding: 0 2rem;
 }
-
