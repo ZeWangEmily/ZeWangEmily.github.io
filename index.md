@@ -14,8 +14,8 @@ excerpt: ""
     My research focuses on education, disasters, and behavior in developing countries.  
     I also go by <strong>Emily</strong>.
 
-    <p>Email: emilywangaaa@gmail.com
- Here is my <a href="https://www.dropbox.com/scl/fi/pio1dmsglgew2tzselm83/CV_Ze_Wang_Emily_2025.pdf?rlkey=88p1kfhw479lx3l7lapfigd6q&dl=0" target="_blank">CV</a>. </p>
+    <p>Email: emilywangaaa@gmail.com </p>
+ Here is my <a href="https://www.dropbox.com/scl/fi/pio1dmsglgew2tzselm83/CV_Ze_Wang_Emily_2025.pdf?rlkey=88p1kfhw479lx3l7lapfigd6q&dl=0" target="_blank">CV</a>.
   </div>
 
   <div style="flex:1; text-align:center; min-width:180px;">
