@@ -4,3 +4,20 @@ styles: true
 ---
 
 @import "alembic";
+
+body {
+  font-size: 15px;   // default ~16px → make it smaller
+  line-height: 1.6;  // keep readability
+}
+
+h1 {
+  font-size: 2rem;   // default ~2.5rem
+}
+
+h2 {
+  font-size: 1.5rem; // default ~2rem
+}
+
+h3 {
+  font-size: 1.2rem;
+}
