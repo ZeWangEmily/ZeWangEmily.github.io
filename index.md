@@ -6,9 +6,21 @@ feature_image: "/assets/header_personal.png"
 excerpt: ""
 ---
 
-Welcome to my website! I am a PhD student in economics at the University of Tokyo. My research focuses on education, disasters, and behavior in developing countries. I also go by **Emily**.
+<div style="display:flex; align-items:center; gap:2rem;">
 
-Email: emilywangaaa@gmail.com
+  <div style="flex:2;">
+    Welcome to my website! I am a PhD student in economics at the University of Tokyo.  
+    My research focuses on education, disasters, and behavior in developing countries.  
+    I also go by **Emily**.
+
+    <p>Email: emilywangaaa@gmail.com</p>
+  </div>
+
+  <div style="flex:1; text-align:center;">
+    <img src="/assets/default-social-image.jpg" alt="Ze Wang" style="width:180px; border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+
+</div>
 
 {% comment %}
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
