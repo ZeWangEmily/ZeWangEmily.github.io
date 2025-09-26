@@ -17,7 +17,7 @@ excerpt: ""
   </div>
 
   <div style="flex:1; text-align:center;">
-    <img src="/assets/default-social-image.jpg" alt="Ze Wang" style="width:180px; border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <img src="/assets/personal_photo.png" alt="Ze Wang" style="width:180px; border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
   </div>
 
 </div>
