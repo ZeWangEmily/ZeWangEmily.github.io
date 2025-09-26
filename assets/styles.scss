@@ -32,8 +32,6 @@ ul, ol {
 }
 
 /* 主体宽度：覆盖 Alembic 默认 */
-.wrapper,
-.page,
 .content {
   max-width: 1300px;   /* 你可以试 1000px / 1100px / 1200px 看效果 */
   margin: 0 auto;
