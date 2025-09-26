@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Ze Wang
-feature_image: "/assets/header_personal.jpg"
+feature_image: "/assets/header_personal.png"
 excerpt: ""
 ---
 
@@ -18,4 +18,4 @@ Email: emilywangaaa@gmail.com
 
 - Ph.D. Candidate in Economics, The University of Tokyo, 2023 -
 - M.A. in Economics, The University of Tokyo, 2021 - 2023
-- M.A. in Financial Management, Zhejiang University, 2016 - 2020
+- B.A. in Financial Management, Zhejiang University, 2016 - 2020
