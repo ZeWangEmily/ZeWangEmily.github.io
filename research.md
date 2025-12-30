@@ -9,7 +9,7 @@ layout: page
   [Under Review]
   - Presented at ESWC 2025
  
-- **[When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China]**
+- **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China**
   - Presented at Young JADE 2025
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
