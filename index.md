@@ -11,11 +11,11 @@ excerpt: ""
 
   <div style="flex:2; min-width:250px;">
     Welcome to my website! I am a PhD student in economics at the University of Tokyo.  
-    My research focuses on education, disasters, and behavior in developing countries.  
+    My research focuses on politics, education, and disasters in developing countries.  
     I also go by <strong>Emily</strong>.
 
     <p>Email: emilywangaaa@gmail.com </p>
- Here is my <a href="https://www.dropbox.com/scl/fi/pio1dmsglgew2tzselm83/CV_Ze_Wang_Emily_2025.pdf?rlkey=88p1kfhw479lx3l7lapfigd6q&dl=0" target="_blank">CV</a>.
+ Here is my <a href="https://www.dropbox.com/scl/fi/7jydz8zj23ci8hyyh950x/CV_Emily_2025.pdf?rlkey=cv4446qqppih1ohhmns971ifi&dl=0" target="_blank">CV</a>.
   </div>
 
   <div style="flex:1; text-align:center; min-width:180px;">
