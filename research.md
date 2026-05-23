@@ -13,7 +13,7 @@ layout: page
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
   (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://sites.google.com/view/tomoki-nishiyama/research?authuser=0), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
 
-- **Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning**
+- **Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning**<br>
   (with [Kengo Igei](https://sites.google.com/view/kengoigei/home), [Hirotake Ito](https://hirotakeito.github.io/), [Yusuke Tsuchiya](https://sites.google.com/view/yusuke-tsuchiya/), [Makiko Nakamuro](https://nakamuro-lab.org/profile))
 
 ### Work in Progress
