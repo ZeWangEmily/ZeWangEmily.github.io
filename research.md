@@ -9,7 +9,7 @@ layout: page
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
 - **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake**
-  - Presentation: ESWC 2025
+  - Presentation: JEA2023, AEDC2023, AMES2023, EAEA2023, Chinese Economists Society China Annual Conference 2024, Young JADE2025, AEDC2025, ESWC 2025, Joint Asian and European Workshop on Econometrics and Health Economics 2025
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
   (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://sites.google.com/view/tomoki-nishiyama/research?authuser=0), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
