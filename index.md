@@ -11,7 +11,7 @@ excerpt: ""
 
   <div style="flex:2; min-width:250px;">
     Welcome to my website! I am a PhD student in economics at the University of Tokyo.  
-    My research focuses on politics, education, and disasters in developing countries.  
+    I use spatial and geospatial data to study development economics, with current projects on land, education, and disasters.
     I also go by <strong>Emily Wang</strong>.
 
     <p>Email: emilywangaaa@gmail.com </p>
