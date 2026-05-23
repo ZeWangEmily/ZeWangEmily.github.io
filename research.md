@@ -23,4 +23,4 @@ layout: page
   (with [Myoung-jae Lee](https://sites.google.com/site/mjleeku/home), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), [Akiko Terada-Hagiwara](https://blogs.adb.org/author/akiko-terada-hagiwara))
 
 - **Cognitive and Noncognitive Peer Effects in Primary Schools: Evidence from Cambodia**  
-  (with [Makiko Nakamuro](https://nakamuro-lab.org/profile), [Kengo Igei](https://sites.google.com/view/kengoigei/home))
+  Emily Wang, [Kengo Igei](https://sites.google.com/view/kengoigei/home), Hirotake Ito, Yusuke Tsuchiya, [Makiko Nakamuro](https://nakamuro-lab.org/profile)
