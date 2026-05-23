@@ -6,14 +6,15 @@ layout: page
 ### Working Papers
 
 - **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China**
+  - JMP
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
 - **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake**
-  - Presentation: JEA2023, AEDC2023, AMES2023, EAEA2023, Chinese Economists Society China Annual Conference 2024, Young JADE2025, AEDC2025, ESWC 2025, Joint Asian and European Workshop on Econometrics and Health Economics 2025
+  - Presentation: AEWHE 2025, ESWC 2025, AEDC 2025, Young JADE 2025, CESC 2024, EAEA 2023, AMES 2023, AEDC 2023, JEA 2023
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
   (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://sites.google.com/view/tomoki-nishiyama/research?authuser=0), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
-  - Presentation: JEA2025, EAEA2025, JADE2026, UEA2026
+  - Presentation: UEA 2026, JADE 2026, EAEA 2025, JEA 2025
 
 - **Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning**<br>
   (with [Kengo Igei](https://sites.google.com/view/kengoigei/home), [Hirotake Ito](https://hirotakeito.github.io/), [Yusuke Tsuchiya](https://sites.google.com/view/yusuke-tsuchiya/), [Makiko Nakamuro](https://nakamuro-lab.org/profile))
