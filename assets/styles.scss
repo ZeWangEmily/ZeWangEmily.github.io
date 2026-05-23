@@ -5,3 +5,40 @@ styles: true
 
 @import "alembic";
 
+.layout-page.research .article--page {
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.layout-page.research .article--page h3 {
+  font-size: 1.12rem;
+  line-height: 1.45;
+  margin-bottom: 0.65rem;
+}
+
+.layout-page.research .article--page li {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin-bottom: 0.75rem;
+}
+
+.layout-page.research .article--page li li {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  margin-bottom: 0.2rem;
+}
+
+.layout-page.research .article--page li a {
+  color: #242e2b;
+  background-image: none;
+  border-bottom: 1px solid rgba(36, 46, 43, 0.25);
+  text-shadow: none;
+}
+
+.layout-page.research .article--page li a:hover,
+.layout-page.research .article--page li a:active,
+.layout-page.research .article--page li a:focus {
+  color: #242e2b;
+  background-image: none;
+  border-bottom-color: #242e2b;
+}
