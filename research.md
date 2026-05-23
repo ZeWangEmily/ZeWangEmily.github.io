@@ -6,7 +6,7 @@ layout: page
 ### Working Papers
 
 - **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China**
-  - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026 (Chinese Economic Society Meeting)
+  - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
 - **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake**
 
