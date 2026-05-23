@@ -39,15 +39,12 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: # jekyll-seo-tag > Owners twitter username
+author: "Ze Wang" # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: "Ze Wang (Emily Wang)" # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://github.com/ZeWangEmily
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -93,9 +90,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Ze Wang" # Site name or title, also used in jekyll-seo-tag
+title: "Ze (Emily) Wang" # Site name or title, also used in jekyll-seo-tag
 #logo: # Site logo, also used in jekyll-seo-tag
-#description: ""
+description: "Personal website of Ze Wang, also known as Emily Wang, a PhD student in economics at the University of Tokyo."
 url: "https://zewangemily.github.io"
 baseurl: ""
 repo: "https://github.com/ZeWangEmily/ZeWangEmily.github.io"

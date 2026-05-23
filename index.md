@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  ## Ze Wang
+  ## Ze (Emily) Wang
 feature_image: "/assets/personal_header.png"
 excerpt: ""
 ---
@@ -12,14 +12,14 @@ excerpt: ""
   <div style="flex:2; min-width:250px;">
     Welcome to my website! I am a PhD student in economics at the University of Tokyo.  
     My research focuses on politics, education, and disasters in developing countries.  
-    I also go by <strong>Emily</strong>.
+    I also go by <strong>Emily Wang</strong>.
 
     <p>Email: emilywangaaa@gmail.com </p>
  Here is my <a href="https://www.dropbox.com/scl/fi/7jydz8zj23ci8hyyh950x/CV_Emily_2025.pdf?rlkey=cv4446qqppih1ohhmns971ifi&dl=0" target="_blank">CV</a>.
   </div>
 
   <div style="flex:1; text-align:center; min-width:180px;">
-    <img src="/assets/personal_photo.png" alt="Ze Wang" style="width:180px; border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <img src="/assets/personal_photo.png" alt="Ze Wang (Emily Wang)" style="width:180px; border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
   </div>
 
 </div>
