@@ -9,10 +9,12 @@ layout: page
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026 (Chinese Economic Society Meeting)
 
 - **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake**
-  [Under Revision]
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
   (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://sites.google.com/view/tomoki-nishiyama/research?authuser=0), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
+
+- **Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning**
+  Emily Wang, [Kengo Igei](https://sites.google.com/view/kengoigei/home), Hirotake Ito, Yusuke Tsuchiya, [Makiko Nakamuro](https://nakamuro-lab.org/profile)
 
 ### Work in Progress
 
@@ -21,6 +23,3 @@ layout: page
 
 - **Shanghai in Flux: Evaluating the Building Expansion Effects of River Crossings Using Satellite Imagery**  
   (with [Myoung-jae Lee](https://sites.google.com/site/mjleeku/home), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main), [Akiko Terada-Hagiwara](https://blogs.adb.org/author/akiko-terada-hagiwara))
-
-- **Cognitive and Noncognitive Peer Effects in Primary Schools: Evidence from Cambodia**  
-  Emily Wang, [Kengo Igei](https://sites.google.com/view/kengoigei/home), Hirotake Ito, Yusuke Tsuchiya, [Makiko Nakamuro](https://nakamuro-lab.org/profile)
