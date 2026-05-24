@@ -5,8 +5,7 @@ layout: page
 
 ### Working Papers
 
-- **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China**
-  - JMP
+- **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China** [JMP]
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
 - **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake**
