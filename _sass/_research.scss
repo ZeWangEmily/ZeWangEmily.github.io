@@ -37,6 +37,26 @@
   padding-top: 0.12rem;
 }
 
+.layout-page.research .paper-tag {
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-left: 0.35rem;
+  padding: 0.12rem 0.36rem;
+  vertical-align: 0.08rem;
+}
+
+.layout-page.research .paper-tag--jmp {
+  background: #2f5d31;
+}
+
+.layout-page.research .paper-tag--review {
+  background: #9a123c;
+}
+
 .layout-page.research .article--page li a {
   color: #242e2b;
   background-image: none;
