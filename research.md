@@ -8,7 +8,7 @@ layout: page
 - **When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China** <span class="paper-tag paper-tag--jmp">JMP</span>
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
-- **Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake** <span class="paper-tag paper-tag--review">Under Review</span>
+- **[Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake](/assets/papers/ZeWang_2605.pdf)** <span class="paper-tag paper-tag--review">Under Review</span>
   - Presentation: AEWHE 2025, ESWC 2025, AEDC 2025, Young JADE 2025, CESC 2024, EAEA 2023, AMES 2023, AEDC 2023, JEA 2023
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
