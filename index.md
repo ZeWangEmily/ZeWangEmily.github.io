@@ -15,7 +15,7 @@ excerpt: ""
     I also go by <strong>Emily Wang</strong>.
 
     <p>Email: emilywangaaa@gmail.com </p>
- Here is my <a href="https://www.dropbox.com/scl/fi/7jydz8zj23ci8hyyh950x/CV_Emily_2025.pdf?rlkey=cv4446qqppih1ohhmns971ifi&dl=0" target="_blank">CV</a>.
+ Here is my <a href="/assets/cv/CV_Emily_2026.pdf" target="_blank">CV</a>.
   </div>
 
   <div style="flex:1; text-align:center; min-width:180px;">

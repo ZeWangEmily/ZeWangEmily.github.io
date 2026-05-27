@@ -1,0 +1,103 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.72in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\definecolor{linkblue}{HTML}{2B5D87}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=linkblue,
+  linkcolor=linkblue
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\setlist[itemize]{leftmargin=*, topsep=2pt, itemsep=4pt}
+\titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+\newcommand{\cvname}[1]{\begin{center}{\LARGE\bfseries #1}\end{center}}
+\newcommand{\paperstatus}[1]{\hspace{0.25em}{\normalfont\small [#1]}}
+\newcommand{\coauthors}[1]{\\[-1pt]{\small (with #1)}}
+\newcommand{\paperdetails}[1]{\\[-1pt]{\small #1}}
+
+\begin{document}
+
+\cvname{Ze Wang (Emily Wang)}
+\begin{center}
+  \href{mailto:wangze@g.ecc.u-tokyo.ac.jp}{wangze@g.ecc.u-tokyo.ac.jp}
+  \quad\textbar\quad
+  \href{https://zewangemily.github.io/}{zewangemily.github.io}
+  \quad\textbar\quad
+  7--3--1, Hongo, Bunkyo, Tokyo, Japan
+\end{center}
+
+\section*{Research Interests and Profile}
+Ph.D. candidate in Economics at the University of Tokyo. I use geospatial data to study
+development economics, with current projects on land, education, and disasters. My work combines
+policy-relevant empirical research, fieldwork, and spatial analysis.
+
+\section*{Education}
+\begin{tabularx}{\textwidth}{@{}p{0.28\textwidth}X>{\raggedleft\arraybackslash}p{0.15\textwidth}@{}}
+Apr 2023 -- Mar 2027\\(Expected) & Ph.D. Candidate in Economics, Graduate School of Economics, University of Tokyo & Tokyo, Japan \\
+Apr 2021 -- Mar 2023 & M.A. in Economics, Graduate School of Economics, University of Tokyo & Tokyo, Japan \\
+Sep 2016 -- Jul 2020 & B.A. in Financial Management, School of Management, Zhejiang University & Zhejiang, China \\
+\end{tabularx}
+
+\section*{Working Papers}
+\begin{itemize}
+  \item \textbf{When Monitoring Backfires: Multi-Tasking Bureaucrats and Land Misallocation in China}\paperstatus{JMP}
+  \paperdetails{Scheduled presentations: ICCDS 2026, HYI--UTokyo, CES 2026.}
+
+  \item \textbf{Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake}\paperstatus{Under Review}
+  \paperdetails{Presentations: AEWHE 2025, ESWC 2025, AEDC 2025, Young JADE 2025, CESC 2024, EAEA 2023, AMES 2023, AEDC 2023, JEA 2023.}
+
+  \item \textbf{Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines}
+  \coauthors{Andrew S. Griffen, Yukichi Mano, Tomoki Nishiyama, Yasuyuki Sawada}
+  \paperdetails{Presentations: UEA 2026, JADE 2026, EAEA 2025, JEA 2025.}
+
+  \item \textbf{Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning}
+  \coauthors{Kengo Igei, Hirotake Ito, Yusuke Tsuchiya, Makiko Nakamuro}
+\end{itemize}
+
+\section*{Work in Progress}
+\begin{itemize}
+  \item \textbf{Mental Disorder, Altruism, and Empathy: Experimental Evidence from Middle School Students in Post-Earthquake Sichuan, China}
+  \coauthors{Albert Park, Yasuyuki Sawada, Menghan Shen, Sangui Wang, Heng Wang}
+
+  \item \textbf{Shanghai in Flux: Evaluating the Building Expansion Effects of River Crossings Using Satellite Imagery}
+  \coauthors{Myoung-jae Lee, Yasuyuki Sawada, Akiko Terada-Hagiwara}
+\end{itemize}
+
+\section*{Presentations}
+2026: ICCDS, HYI--UTokyo, CES, UEA, JADE \\
+2025: AEWHE, ESWC, AEDC, Young JADE, EAEA, JEA, ARES \\
+2024: CESC \\
+2023: EAEA, AMES, AEDC, JEA
+
+\section*{Research Experience}
+\begin{tabularx}{\textwidth}{@{}p{0.22\textwidth}X@{}}
+Jul 2025 -- Dec 2025 & Research assistant, JICA Ogata Research Institute (2 days/week) \\
+Apr 2022 -- Present & Research assistant of Prof. Yasuyuki Sawada, Graduate School of Economics, University of Tokyo \\
+Sep 2023 -- Mar 2025 & Research assistant of Prof. Makiko Nakamuro, Keio University \\
+\end{tabularx}
+
+\section*{Fellowships, Honors, and Awards}
+\begin{tabularx}{\textwidth}{@{}X>{\raggedleft\arraybackslash}p{0.25\textwidth}@{}}
+World-leading Innovative Graduate Study for Advanced Economics, University of Tokyo & Jun 2022 -- Mar 2026 \\
+Zhejiang University Academic Scholarships & Sep 2016 -- Jul 2020 \\
+Masterkong Scholarship Exchange Program at Waseda University & Mar 2018 -- Aug 2018 \\
+\end{tabularx}
+
+\section*{Skills}
+Languages: Mandarin (Native), English (Fluent), Japanese (N1) \\
+Computer Languages and Tools: R, Stata, ArcGIS, Matlab, LaTeX
+
+\end{document}

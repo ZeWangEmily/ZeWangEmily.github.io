@@ -1,8 +1,10 @@
 _site/
 .sass-cache/
 .jekyll-cache/
+assets/cv/*.aux
+assets/cv/*.log
+assets/cv/*.out
 .jekyll-metadata
 alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
-
