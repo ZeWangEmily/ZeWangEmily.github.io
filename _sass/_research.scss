@@ -39,7 +39,6 @@
 
 .layout-page.research .paper-tag {
   border-radius: 3px;
-  color: #fff;
   display: inline-block;
   font-size: 0.68rem;
   font-weight: 700;
@@ -50,11 +49,13 @@
 }
 
 .layout-page.research .paper-tag--jmp {
-  background: #2f5d31;
+  background: #f3d0ad;
+  color: #693600;
 }
 
 .layout-page.research .paper-tag--review {
-  background: #9a123c;
+  background: #b94a35;
+  color: #fff;
 }
 
 .layout-page.research .article--page li a {
