@@ -5,7 +5,7 @@ layout: page
 
 ### Working Papers
 
-- **Observable Compliance, Hidden Distortions:<br>Cropland Protection under Incomplete Monitoring** <span class="paper-tag paper-tag--jmp">JMP</span>
+- **Observable Compliance, Hidden Distortions: Cropland Protection under Incomplete Monitoring** <span class="paper-tag paper-tag--jmp">JMP</span>
   - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026
 
 - **[Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake](/assets/papers/ZeWang_2605.pdf)** <span class="paper-tag paper-tag--review">Under Review</span>
