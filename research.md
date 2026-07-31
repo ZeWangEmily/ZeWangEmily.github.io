@@ -6,7 +6,7 @@ layout: page
 ### Working Papers
 
 - **Observable Compliance, Hidden Distortions: Cropland Protection under Incomplete Monitoring** <span class="paper-tag paper-tag--jmp">JMP</span>
-  - Scheduled presentation: ICCDS2026, HYI-UTokyo, CES2026, SWET 2026
+  - Presentation: ICCDS2026, HYI-UTokyo, CES2026, SWET2026
 
 - **[Disaster-Exposed Peers and Unequal Academic Loss: Evidence from the Wenchuan Earthquake](/assets/papers/ZeWang_2605.pdf)** <span class="paper-tag paper-tag--review">Under Review</span>
   - Presentation: ESWC 2025, AEDC 2025, CES 2024, EAEA 2023, AMES 2023, AEDC 2023, JEA 2023
