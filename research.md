@@ -12,7 +12,7 @@ layout: page
   - Presentation: ESWC 2025, AEDC 2025, CES 2024, EAEA 2023, AMES 2023, AEDC 2023, JEA 2023
 
 - **Winners and Losers of In-Situ Opportunity: Quasi-Experimental Evidence from a Low-Income Housing Lottery in the Philippines**  
-  (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://sites.google.com/view/tomoki-nishiyama/research?authuser=0), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
+  (with [Andrew S. Griffen](https://andrew-griffen.github.io/), [Yukichi Mano](https://hri.ad.hit-u.ac.jp/html/100000119_profile_en.html), [Tomoki Nishiyama](https://nishi24yama80.github.io/website/), [Yasuyuki Sawada](https://sites.google.com/site/yasuyukisawadapage/main))
   - Presentation: UEA 2026, JADE 2026, EAEA 2025, JEA 2025
 
 - **Dose or Duration? Evidence from Randomized Evaluations of Computer-Assisted Learning**<br>
